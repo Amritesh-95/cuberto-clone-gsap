@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "sheryjs": "^1.0.0-beta.0.1.8"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.3.3"
+  }
+}
